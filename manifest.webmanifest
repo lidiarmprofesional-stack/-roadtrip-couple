@@ -1,0 +1,9 @@
+{
+  "name": "RoadTrip Couple",
+  "short_name": "RoadTrip",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d0f12",
+  "theme_color": "#101114",
+  "description": "Diario de viajes y escapadas en pareja"
+}
